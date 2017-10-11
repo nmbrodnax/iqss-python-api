@@ -58,4 +58,6 @@ print(results.keys())
 # ============================
 # save the relevant data
 longitude = results['geometry']['location']['lng']
+print("Longitude: " + str(longitude))
 latitude = results['geometry']['location']['lat']
+print("Latitude: " + str(latitude))
