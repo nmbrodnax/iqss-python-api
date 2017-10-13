@@ -34,8 +34,6 @@
 
      Go to Web Services > Geocoding API.  Click *GET A KEY* in the upper right-hand corner.  Copy your key to a text file and save it in the same directory as your IDE scripts.
 
-[Click here](https://dss.iq.harvard.edu/workshop-materials) to download the code for all exercises.
-
  2. Enter the following into your script.
 
     ```python
@@ -46,3 +44,6 @@
     ```
 
     Be sure that your script and authorization document (the text file with your API key) are in the same directory, and that the filename is correct.  When you run the script, it should display your API key.
+
+
+[Click here](https://dss.iq.harvard.edu/workshop-materials) to download the code for all exercises.
