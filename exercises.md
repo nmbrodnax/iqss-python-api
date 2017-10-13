@@ -45,5 +45,11 @@
 
     Be sure that your script and authorization document (the text file with your API key) are in the same directory, and that the filename is correct.  When you run the script, it should display your API key.
 
+ 3. Enter the following into a browser, replacing `<my_api_key>` with your key.
+
+    ```
+    https://maps.googleapis.com/maps/api/geocode/json?address=1737+Cambridge+St,
+    +Cambridge,+MA+02138&key=<my_api_key>
+    ```
 
 [Click here](https://dss.iq.harvard.edu/workshop-materials) to download the code for all exercises.
