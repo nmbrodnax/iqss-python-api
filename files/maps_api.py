@@ -21,7 +21,7 @@ host = 'https://maps.googleapis.com/maps/api/geocode/json'
 local_file = 'google_auth.txt'
 with open(local_file) as txtfile:
     my_key = txtfile.read()
-    # print("API Key: " + my_key)
+    print("API Key: " + my_key)
 
 # build api GET request
 address = "1737 Cambridge St, Cambridge, MA 02138" 
