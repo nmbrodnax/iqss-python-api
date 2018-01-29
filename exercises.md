@@ -6,7 +6,7 @@
 
 ### Part 1: Introduction
 
- 1. Complete the one-minute poll at [bit.ly/dsspoll](http://bit.ly/dsspoll). Click here to access the files for the workshop.  
+ 1. Complete the one-minute poll at [bit.ly/dsspoll](http://bit.ly/dsspoll). Click [here](https://github.com/nmbrodnax/iqss-python-api/tree/master/files) to access the files for the workshop.  
  
 ### Part 3: Simple API
 
@@ -18,10 +18,8 @@
 
  4. Run your script from the IDE or from the command line.
  
- ### Part 3:  Authentication
+ ### Part 4: Authentication
  
- ## Workshop Exercises
-
  1. Register as a developer to access the Google Maps API: [https://developers.google.com/maps/documentation/geocoding/start](https://developers.google.com/maps/documentation/geocoding/start).
 
      Go to Web Services > Geocoding API.  Click *GET A KEY* in the upper right-hand corner.  Copy your key to a text file and save it in the same directory as your IDE scripts.
