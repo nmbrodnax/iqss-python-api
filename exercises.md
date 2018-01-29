@@ -14,7 +14,7 @@
 
  2. Review the [API documentation](https://github.com/DataUSA/datausa-api/wiki/Data-API#ipeds) for the IPEDS data available from [DataUSA](https://datausa.io).
 
- 3. Modify the script `ipeds_api.py` by replacing the `UnitID` on Row 23 with the `UnitID` for the institution you wish to query.  You can also change the variables returned based on what is available (see the [API documentation](https://github.com/DataUSA/datausa-api/wiki/Data-API#ipeds)).
+ 3. Modify the script `ipeds_api.py` by replacing the `UnitID` on Row 19 with the `UnitID` for the institution you wish to query.  You can also change the variables returned based on what is available (see the [API documentation](https://github.com/DataUSA/datausa-api/wiki/Data-API#ipeds)).
 
  4. Run your script from the IDE or from the command line.
  
