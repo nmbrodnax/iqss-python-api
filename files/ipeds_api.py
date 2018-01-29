@@ -1,9 +1,5 @@
 # ipeds_api.py
-
 # Introduction to Using APIs with Python
-# Harvard IQSS
-# January 18, 2018
-
 # NaLette Brodnax
 # www.nalettebrodnax.com
 

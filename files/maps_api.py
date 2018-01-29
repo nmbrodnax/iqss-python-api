@@ -1,10 +1,6 @@
 # maps_api.py
 # Introduction to Using APIs with Python
-# Harvard IQSS
-# October 13, 2017
-
 # NaLette Brodnax
-# nbrodnax@iq.harvard.edu
 # www.nalettebrodnax.com
 
 import csv
