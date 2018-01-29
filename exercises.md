@@ -22,7 +22,7 @@
 
      
 
- 2. Go to **Web Services > Geocoding API**.  Click *GET A KEY* in the upper right-hand corner.  Copy your key to a plain text file and save it in the same directory as your script.
+ 2. Go to **Web Services > Geocoding API**.  Click *GET A KEY* in the upper right-hand corner.  Copy your key to a plain text file called `google_auth.txt` and save it in the same directory as your script.
 
     Your script and authorization document (the text file with your API key) must be in the same directory, and filename must match what is provided in your script.  When you run the script, it should display your API key.
 
